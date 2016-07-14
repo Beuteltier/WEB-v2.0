@@ -1,6 +1,7 @@
 # Beuteltier v2.0
 
-Unter http://beutel-tier.com/ erreichbar.  
+
+v1.0 unter http://beutel-tier.com/ erreichbar.  
 Shop unter http://shop.beutel-tier.com/ erreicbar.
 
 <br>
