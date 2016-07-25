@@ -3,10 +3,55 @@
   margin-left: auto ;
   margin-right: auto ;
   width: 570px;
+
 }
 
 .img-big {
   float: left;
   padding-left: 5px;
   padding-bottom: 2,5;
+}
+
+
+/* save */
+
+.pic-hover {
+    background-repeat: no-repeat;
+
+}
+.text-hover {
+    background: #FFF;
+    opacity: 0;
+}
+.pic-hover:hover .text-hover {
+    opacity: 0.7;
+    color: #000000;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+#beuteltier {
+  width: 256px;
+  height: 256px;
+  background: url(/pic/produkte/Beuteltier.jpg);
+  background-size: 256px 256px;
+}
+
+#hover-beuteltier {
+  width: 256px;
+  height: 256px;
+
+}
+
+#pinguin {
+  width: 200px;
+  height: 200px;
+  background: url(/pic/produkte/Pinguin.jpg);
+  background-size: 200px 200px;
+}
+
+#hover-pinguin {
+  width: 200px;
+  height: 200px;
 }
